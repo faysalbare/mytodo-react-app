@@ -1,7 +1,7 @@
 **Todo-app README**
 
 
-](https://65d3efd71c6e7c53c0333d57--hilarious-puppy-5c581c.netlify.app)
+(https://65d3efd71c6e7c53c0333d57--hilarious-puppy-5c581c.netlify.app)
 
 Tämä Todo-app on toteutettu käyttäen React.js -kirjastoa. Sovelluksen avulla käyttäjä voi luoda, muokata ja poistaa tehtäviä (todoja) kätevästi. Tässä README-tiedostossa annetaan yleiskuva sovelluksesta, sen asennuksesta ja käytöstä.
 
