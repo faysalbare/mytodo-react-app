@@ -7,7 +7,7 @@ Tämä Todo-app on toteutettu käyttäen React.js -kirjastoa. Sovelluksen avulla
 
 ### Ominaisuudet:
 
-- Luo uusia tehtäviä syöttämällä ne tekstikenttään ja painamalla "Lisää".
+- Luo uusia tehtäviä syöttämällä ne tekstikenttään ja painamalla "Lisää" tai Enter.
 - Merkitse tehtävät suoritetuiksi klikkaamalla niiden vieressä olevaa valintaruutua.
 - Poista tehtäviä painamalla poista-kuvaketta tehtävän vieressä.
 - Tallentaa tehtävät paikallisesti selaimen välimuistiin, joten tehtävät säilyvät, vaikka sivu päivitettäisiin.
